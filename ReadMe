@@ -1,0 +1,93 @@
+Privacy Policy for Pixel AutoStamp
+
+Effective Date: June 2, 2026
+App Name: Pixel AutoStamp
+Developer: IQ-Soft
+Contact Email: iqsoft.support@gmail.com
+
+1. Introduction
+
+Pixel AutoStamp is a photo stamping application that automatically detects new photos taken on your Android device and creates a stamped copy of those photos based on the app’s configured settings.
+
+This Privacy Policy explains how Pixel AutoStamp handles photos, files, permissions, and user/device data.
+
+2. Data We Collect
+
+Pixel AutoStamp is designed to work locally on your device.
+
+The app does not collect, upload, sell, or share personal data with any external server, cloud service, analytics platform, or advertising network.
+
+The app may access the following data locally on your device only:
+
+Data / Permission	Purpose
+Photos and images	To detect newly taken photos and create stamped copies
+Media storage access	To read source photos and save stamped copies
+Notification permission, if used	To notify the user when photos are detected or stamping is completed
+Background processing permission, if used	To detect and process new photos after they are saved
+App settings	To remember stamping preferences such as date, time, location text, or watermark style
+3. How We Use Data
+
+Pixel AutoStamp uses local device data only for the following purposes:
+
+Detecting new photos saved by the device camera
+Creating a stamped copy of each selected or detected photo
+Saving the stamped copy on the device
+Showing local notifications about stamping activity
+Maintaining user-selected app preferences
+
+The original photo remains unchanged. Pixel AutoStamp creates a separate stamped copy.
+
+4. Photo Handling
+
+Pixel AutoStamp may read photos from your device only for stamping purposes.
+
+Photos are processed locally on the device. Photos are not uploaded to any server. Photos are not shared with the developer or any third party.
+
+5. Data Sharing
+
+Pixel AutoStamp does not share user data with third parties.
+
+The app does not use:
+
+Cloud upload
+External servers
+Analytics SDKs
+Advertising SDKs
+Third-party tracking
+User profiling
+Account creation or login
+6. Children’s Privacy
+
+Pixel AutoStamp is not specifically directed at children under the age of 13.
+
+If the app is made available to children or selected as including children in the Google Play target audience, the app will be operated in compliance with applicable children’s privacy requirements and Google Play Families policies. Google Play states that apps including children in their target audience must comply with Families Policy requirements, and apps for children have additional limits on identifiers and data transmission.
+
+7. Permissions
+
+Pixel AutoStamp requests only the permissions required for its core functionality. Depending on Android version and app configuration, these may include access to photos/media, storage, notifications, and background processing.
+
+Permissions are used only to support local photo detection and stamping.
+
+8. Data Retention
+
+Pixel AutoStamp does not store user data on external servers.
+
+Stamped photos are saved locally on the user’s device. Users can delete stamped photos at any time using the app, gallery, or file manager, depending on device settings.
+
+App preferences may remain stored locally until the user clears app data or uninstalls the app.
+
+9. Security
+
+Pixel AutoStamp is designed to process photos locally on the device. Since the app does not upload photos or user data to external servers, the risk of server-side exposure is reduced.
+
+Users should still protect their device using standard Android security features such as screen lock, operating system updates, and trusted app sources.
+
+10. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time. Any updates will be posted on the same privacy policy page with a revised effective date.
+
+11. Contact
+
+For questions about this Privacy Policy or Pixel AutoStamp, contact:
+
+Email:  iqsoft.support@gmail.com
